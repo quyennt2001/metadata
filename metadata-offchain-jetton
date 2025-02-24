@@ -3,5 +3,5 @@
     "description": "This is DOGS token",
     "symbol": "DOGS",
     "image": "https://cdn.dogs.dev/dogs.png",
-    "decimals: "9",
+    "decimals": "9"
 }
